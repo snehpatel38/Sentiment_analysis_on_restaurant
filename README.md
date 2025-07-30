@@ -1,6 +1,4 @@
-# Sentiment_analysis_on_restaurant_reviews
-
-## Sentiment Analysis of Reviews Using BERT
+# Sentiment Analysis of Reviews Using BERT
 
 ## - Developed a sentiment analysis pipeline using the transformers library and pre-trained BERT model (nlptown/bert-base-multilingual-uncased-sentiment) to classify text reviews into sentiment scores.
 ## - Implemented data scraping using BeautifulSoup to extract reviews from websites like Yelp.
